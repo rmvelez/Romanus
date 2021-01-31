@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Skeleton
+  - FuturePortal
+  - PastPortal
+  - Bullet
+  - Gate
+  - Spike
+  - Spear
+  - Dark-Hound
+  - PumpkinBat
+  - Potion
+  - Hawk-Knight
+  - Arrow
+  - Sentry
+  - SentryBullet
+  - Wall
+  - Laser
+  - Platform
+  - Spot
+  - SkeletonBullet
+  - BossGate
+  - BossKey
+  - 1-Up
+  - Mine
+  - Trap
+  - Medusa1stForm
+  - Medusa2ndForm
+  - Laser-Cat
+  - FireBall
+  - SnapierSnake
+  - Net
+  - Boulder
+  - Switch
+  - RagingDemon
+  - Teufel
+  - GuardA
+  - GuardB
+  - BarbedWire
+  - RollieKiller
+  - Endzone
+  - Floor
+  - Orb
+  - GuardC
+  - SilkWizardOrb
+  - SilkWizard
+  - Dimitri
+  - Leap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
